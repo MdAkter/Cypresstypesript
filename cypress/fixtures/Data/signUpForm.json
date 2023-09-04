@@ -1,0 +1,12 @@
+{
+  "FullName": "Md Nasim Akter",
+  "email": "nucden@gmail.com",
+  "phone": "7204293522",
+  "fax":"43673839",
+
+  "genders": [
+    "male",
+    "female",
+    "na"
+  ]
+}
